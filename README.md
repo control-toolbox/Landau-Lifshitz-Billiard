@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1020240348.svg)](https://doi.org/10.5281/zenodo.17748876)
 
-Codes for the article [The Zermelo Navigation Problem on the 2-Sphere of Revolution: An Optimal Control Perspective with Applications to Micromagnetism](https://hal.science/hal-04996987), from Bernard Bonnard, Olivier Cots and Yannick Privat.
+Codes for the article [The Zermelo Navigation Problem on the 2-Sphere of Revolution: An Optimal Control Perspective with Applications to Micromagnetism](https://hal.univ-lorraine.fr/hal-05326962), from Bernard Bonnard, Olivier Cots and Yannick Privat.
 
 The code in this repository is in Python and is based upon [nutopy](https://ct.gitlabpages.inria.fr/nutopy). It provides tools to compute objects from Riemannian geometry and its extensions. 
 
