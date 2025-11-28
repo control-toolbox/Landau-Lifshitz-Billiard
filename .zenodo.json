@@ -1,0 +1,37 @@
+{
+  "description": "Data for the article The Zermelo Navigation Problem on the 2-Sphere of Revolution: An Optimal Control Perspective with Applications to Micromagnetism, from Bernard Bonnard, Olivier Cots and Yannick Privat.",
+  "title": "Data for The Zermelo Navigation Problem on the 2-Sphere of Revolution: An Optimal Control Perspective with Applications to Micromagnetism",
+  "upload_type": "software",
+  "doi": "",
+  "keywords": [
+    "Zermelo navigation problem on the 2-Sphere of revolution",
+    "minimal time optimal control",
+    "micromagnetism",
+    "Landau-Lifshitz billiard"
+  ],
+   "creators": [
+    {
+      "affiliation": "Institut Mathématique de Bourgogne, Inria Sophia Antipolis, France.",
+      "name": "Bonnard, Bernard"
+    },
+    {
+      "affiliation": "Université Toulouse, CNRS, ENSEEIHT-IRIT, Inria Sophia Antipolis, France.",
+      "name": "Cots, Olivier",
+      "orcid": "0000-0002-4703-4369"
+    },
+    {
+      "affiliation": "Université de Lorraine, CNRS, Institut Elie Cartan de Lorraine, Inria, France. Institut Universitaire de France (IUF).",
+      "name": "Privat, Yannick",
+      "orcid": "0000-0002-2039-7223"
+    }
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/control-toolbox/Landau-Lifshitz-Billiard/releases/latest",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "license": "MIT"
+}
